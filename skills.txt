@@ -1,0 +1,8 @@
+Documentation - Bug reports, Check Lists
+API Testing - Postman
+Terminal - GitBush
+Emulator - Android Studio
+Traffic Sniffing - Charlies, Fiddler
+DevTools - Google Chrome, FireFox
+DataBase - MySQL
+Stress Testing - Jmeter
